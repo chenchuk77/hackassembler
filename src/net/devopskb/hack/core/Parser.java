@@ -1,9 +1,9 @@
 package net.devopskb.hack.core;
 
-import net.devopskb.hack.core.net.devopskb.hack.commands.A_Command;
-import net.devopskb.hack.core.net.devopskb.hack.commands.C_Command;
-import net.devopskb.hack.core.net.devopskb.hack.commands.Command;
-import net.devopskb.hack.core.net.devopskb.hack.commands.L_Command;
+import net.devopskb.hack.cmd.A_Command;
+import net.devopskb.hack.cmd.C_Command;
+import net.devopskb.hack.cmd.Command;
+import net.devopskb.hack.cmd.L_Command;
 
 import java.io.IOException;
 import java.nio.file.Files;

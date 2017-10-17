@@ -1,6 +1,6 @@
 package net.devopskb.hack.core;
 
-import net.devopskb.hack.core.net.devopskb.hack.commands.Command;
+import net.devopskb.hack.cmd.Command;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

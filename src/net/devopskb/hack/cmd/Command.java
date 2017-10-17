@@ -1,6 +1,4 @@
-package net.devopskb.hack.core.net.devopskb.hack.commands;
-
-import java.util.Enumeration;
+package net.devopskb.hack.cmd;
 
 /**
  * Created by chenchuk on 10/14/17.
